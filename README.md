@@ -1,15 +1,14 @@
 ### Hi there, welcome to my profile 👋
-<p align="center"><a href="https://ilianosantos.github.io"><img width="80%" alt="I'm Iliano Santos. I´m a Computer Science student and a cape verdean chess player do open source!" /></a></p>
+<p align="center"> "I'm Iliano Santos. I´m a Computer Science student and a cape verdean chess player." </p>
 
 ## Git-Info
 
-<!--
 *
 - 👯 I’m currently studying at ISEL (Instituto Superior de Engenharia de Lisboa)
 - 💻 Technical course in Management Informatics (level 2) - Marketing, Contability, C Language, Microsoft Excel and Access ...
 - 🤯 Small courses of HTML & CSS, Robotics (mBlock) by WebLab cape verdean program
 - 😏 Actually languages: 
-<div>
+<div style="display: inline_block"><br>
 <img align="center"> alt="Kotlin" height="30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg" />
 <img align="center"> alt="Assembly" height="30" width ="40" src="https://img.icons8.com/?size=512&id=oYurBxPSCxXc&format=png" />
 <img align="center"> alt="PostgreSQL" height="30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
@@ -22,6 +21,8 @@
 <a href="https://www.linkedin.com/in/iliano-santos-31b993267" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 </div>
+<!--
+								REMEMBER TO UPDATE ME !!! 
 -->
 
 ## Git-Stats
