@@ -1,9 +1,8 @@
 ### Hi there, welcome to my profile 👋
-<p align="center"> "I'm Iliano Santos. I´m a Computer Science student and a cape verdean chess player." </p>
+<p "I'm Iliano Santos. I´m a Computer Science student and a cape verdean chess player." </p>
 
 ## Git-Info
 
-*
 - 👯 I’m currently studying at ISEL (Instituto Superior de Engenharia de Lisboa)
 - 💻 Technical course in Management Informatics (level 2) - Marketing, Contability, C Language, Microsoft Excel and Access ...
 - 🤯 Small courses of HTML & CSS, Robotics (mBlock) by WebLab cape verdean program
@@ -15,6 +14,7 @@
 <img align="center"> alt="HTML" height="30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <img align="center"> alt="CSS" height="30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 </div>
+##
 - 😉 Social Media:
 <div>
 <a href="https://www.twitch.tv/santosnano" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
