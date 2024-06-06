@@ -4,7 +4,7 @@
 ## Git-Info
 
 - 👯 I’m currently studying at ISEL (Instituto Superior de Engenharia de Lisboa)
-- 💻 Technical course in Management Informatics (level 2) - Marketing, Contability, C Language, Microsoft Excel and Access ...
+- 💻 Technical course in Management Informatics (level 2) - Marketing, Accounting, Organization Management, C Language, Microsoft Excel and Access ...
 - 🤯 Small courses of HTML & CSS, Robotics (mBlock) and Blender by WebLab cape verdean program of NOSI company
 
 ### 😏 Actually languages: 
