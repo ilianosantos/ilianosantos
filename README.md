@@ -1,22 +1,33 @@
 ### Hi there, welcome to my profile 👋
-<p "I'm Iliano Santos. I´m a Computer Science student and a cape verdean chess player." </p>
+<p "I'm Iliano Santos, but you can you call me Nano. I´m an adventurous Computer Science student fascinated by technology and chess wich develop my logical reasoning." </p>
 
 ## Git-Info
 
 - 👯 I’m currently studying at ISEL (Instituto Superior de Engenharia de Lisboa)
-- 💻 Technical course in Management Informatics (level 2) - Marketing, Accounting, Organization Management, C Language, Microsoft Excel and Access ...
+- 💻 Technical course in Management Informatics (level 2) - Marketing, Accounting, Companies Organization and Management, C Language, Microsoft Excel and Access ...
 - 🤯 Small courses of HTML & CSS, Robotics (mBlock) and Blender by WebLab cape verdean program of NOSI company
+- ✨ Web Technical courses in tech area (C#, C, Javascript, Java, SQL)
 
-### 😏 Actually languages: 
+### 😍 IDE skills: 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Intellij IDEA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+  <img align="center" alt="Visual Studio Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+</div>
+
+### 😏 Language skills: 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg" />
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Assembly" height="30" width="40" src="https://img.icons8.com/?size=512&id=oYurBxPSCxXc&format=png" />
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-  </div>
+</div>
   
 ### 😉 Social Media:
 
