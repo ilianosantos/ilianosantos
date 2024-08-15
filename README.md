@@ -1,12 +1,12 @@
 ### Hi there, welcome to my profile 👋
-<p "I'm Iliano Santos, but you can you call me Nano. I´m an adventurous Computer Science student fascinated by technology and chess wich develop my logical reasoning." </p>
+<p> "I'm Iliano Santos, but you can you call me Nano. I´m an adventurous Computer Science student fascinated by technology and chess wich develop my logical reasoning." </p>
 
 ## Git-Info
 
 - 👯 I’m currently studying at ISEL (Instituto Superior de Engenharia de Lisboa)
 - 💻 Technical course in Management Informatics (level 2) - Marketing, Accounting, Companies Organization and Management, C Language, Microsoft Excel and Access ...
 - 🤯 Small courses of HTML & CSS, Robotics (mBlock) and Blender by WebLab cape verdean program of NOSI company
-- ✨ Web Technical courses in tech area (C#, C, Javascript, Java, SQL)
+- ✨ Web certificates in tech courses (C#, C, Javascript, Python, Java, SQL)
 
 ### 😍 IDE skills: 
 <div style="display: inline_block"><br>
