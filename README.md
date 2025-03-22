@@ -1,17 +1,21 @@
 ### Hi there, welcome to my profile 👋
-<p> My name is Iliano Santos and I´m an adventurous Computer Science student fascinated by chess and in love with logical reasoning, data, programming... and all over <strong>tech</strong> areas </p>
+<p> My name is Iliano Santos and I´m an adventurous Computer Science student fascinated by chess and in love with logical reasoning, data, programming... and all over <strong>tech</strong> areas. </p>
+
+> [!NOTE]
+Feel free to send me a message😊
 
 ## Git-Info
 
 - 👯 I’m currently studying at ISEL (Instituto Superior de Engenharia de Lisboa)
 - 💻 Technical course in Management Informatics (level 2) - Marketing, Accounting, Companies Organization and Management, C Language, Microsoft Excel and Access ...
 - 🤯 Small courses of HTML & CSS, Robotics (mBlock) and Blender by WebLab cape verdean program of NOSI company
-- ✨ Web certificates in tech courses (C#, C, Javascript, Python, Java, SQL)
+- ✨ Web certificates in intermediate level courses (C#, C, C++, Javascript, Python, Java, SQL)
 
 ### 😍 IDE skills: 
 <div style="display: inline_block"><br>
 	<img align="center" alt="Intellij IDEA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
 	<img align="center" alt="Visual Studio Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+	<img align="center" alt="Visual Studio Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
 </div>
 
 ### 😏 Language skills: 
@@ -23,12 +27,19 @@
 	<img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 	<img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 	<img align="center" alt="Assembly" height="30" width="40" src="https://img.icons8.com/?size=512&id=oYurBxPSCxXc&format=png" />
-	<img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+	<img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 	<img align="center" alt="Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 	<img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 	<img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 </div>
-  
+
+### 🫡 Database skills:
+
+<div style="display: inline_block"><br>
+	<img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+	<img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg" />
+</div>
+
 ### 😉 Social Media:
 
   <div>
@@ -47,7 +58,7 @@
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=ilianosantos&theme=dracula" alt="ilianosantos" />
 </div>	
 
- #### I'm working on projects. In a few months I'll show that here.
+ #### I'm working on projects. In a few months I'll show them here.
 
 <div>	
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ilianosantos&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dracula" alt="ilianosantos" height="192px"/>
